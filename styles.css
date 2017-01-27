@@ -1,0 +1,163 @@
+body{
+    background-image: url(dots.jpeg);
+}
+
+.container{
+background-image: url(dots.jpeg);
+}
+
+.container h2{
+    font-family:Snell Roundhand;
+    font-size: 50px;
+    font-weight: bold;
+    border-radius: 25px;
+    background-image:url(dots.jpg);
+    padding: 10px 0; 
+    width: 600px;
+    height: 80px;  
+    text-align: center;
+    position: relative;
+    left: 275px;
+}
+
+.Account{
+    border:ridge 2px;
+    width:500px;
+    margin-left: auto;
+    margin-right:auto;
+    margin-bottom:10px;
+    padding-bottom: 110px;
+    float:left;
+
+}
+
+.Personal-Information{
+    border:ridge 2px;
+    width:500px;
+    margin-left: auto;
+    margin-right:auto;
+    margin-bottom:10px;
+    float:right;
+    padding-bottom: 10px;
+}
+
+.Personal-Information legend{
+    font-family: Chalkboard;
+    font-style:italic;
+    border-radius: 25px;
+    background-image:url(dots.jpg);
+    padding-bottom: 5px 0;
+    width: 300px;
+    height: 40px;  
+    text-align: center;
+}
+
+.Account legend{
+    font-family: Chalkboard;
+    font-style:italic;
+    border-radius: 25px;
+    background-image:url(dots.jpg);
+    padding: 5px 0;
+    width: 300px;
+    height: 40px;  
+    text-align: center;
+}
+
+.col-sm-9{
+    border-radius: 20px;
+    background-color: aliceblue;
+    padding: 8px;
+    width: 100px;
+    height: 50px; 
+}
+
+.col-sm-3{
+    font-family: Corbel;
+    border: hidden;
+    width: 100px;
+    height: 40px;  
+    padding-top:15px;
+    text-align: right;
+}
+
+.Avaliability legend{
+    font-family: Chalkboard;
+    font-style:italic;
+    border-radius: 25px;
+    background-image:url(dots.jpg);
+    width: 300px;
+    height: 40px;  
+    text-align: center;
+    padding-top:5px;
+}
+
+.question1{
+    font-family: Corbel;
+
+    border:hidden;
+    width:500px;
+    margin-left: auto;
+    margin-right:auto;
+    margin-bottom:50px;
+    padding-bottom: 100px;
+    float:left;
+}
+
+.question2{
+    font-family: Corbel;
+    border:hidden;
+    width:500px;
+    margin-left: auto;
+    margin-right:auto;
+    margin-bottom:30px;
+    padding-bottom: 10px 0;
+    float:right;
+}
+
+.title{
+    font-family: Chalkboard;
+    font-style:italic;
+    border-left: 6px solid gold;
+    background-color: lightyellow;
+    width: 450px;
+    height: 40px;  
+    text-align: center;
+    padding-top:10px;
+}
+
+.Hours-available{
+    border:hidden;
+    border-radius: 25px;
+    width:1000px;
+    background-image:url(paper.jpg);
+    margin-left: auto;
+    margin-right:auto;
+    margin-bottom:10px;
+    padding-bottom: 10px;
+}
+
+.border2{
+    font-family: Chalkboard;
+    font-style:italic;
+    font-size:20px;
+    border-radius: 25px;
+    background-image:url(dots.jpg);
+    width: 200px;
+    height: 40px;  
+    text-align: center;
+    padding-top:5px;
+    position: relative;
+    right: 35px;
+}
+
+.Personal-Statement legend{
+    font-family: Chalkboard;
+    font-style:italic;
+    border-radius: 25px;
+    background-image:url(dots.jpg);
+    padding: 5px 0;
+    width: 300px;
+    height: 40px;  
+    text-align: center;
+}
+
